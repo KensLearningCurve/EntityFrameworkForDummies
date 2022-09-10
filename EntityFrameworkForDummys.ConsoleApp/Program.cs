@@ -69,6 +69,8 @@ void ShowMovies()
 
     Console.WriteLine($"B. Back");
 
+    Console.WriteLine("Select a movie by pressing that number in front of the movie. Or press 'B' (or 'b') to go back.");
+
     char choice = Console.ReadKey().KeyChar;
 
     if (char.IsDigit(choice))
