@@ -1,4 +1,4 @@
-﻿namespace EntityFrameworkForDummys.ConsoleApp.Objects
+﻿namespace EntityFrameworkForDummies.ConsoleApp.Objects
 {
     internal class Movie
     {

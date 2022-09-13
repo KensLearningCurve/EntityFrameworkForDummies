@@ -1,5 +1,5 @@
-﻿using EntityFrameworkForDummys.ConsoleApp;
-using EntityFrameworkForDummys.ConsoleApp.Objects;
+﻿using EntityFrameworkForDummies.ConsoleApp;
+using EntityFrameworkForDummies.ConsoleApp.Objects;
 
 MovieService movieService = new();
 int? action = 0;

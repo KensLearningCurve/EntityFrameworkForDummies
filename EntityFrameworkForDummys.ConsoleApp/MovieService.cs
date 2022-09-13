@@ -1,6 +1,6 @@
-﻿using EntityFrameworkForDummys.ConsoleApp.Objects;
+﻿using EntityFrameworkForDummies.ConsoleApp.Objects;
 
-namespace EntityFrameworkForDummys.ConsoleApp
+namespace EntityFrameworkForDummies.ConsoleApp
 {
 internal class MovieService
 {
