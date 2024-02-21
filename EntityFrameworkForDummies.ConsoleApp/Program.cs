@@ -58,7 +58,6 @@ void MainMenu()
 
 void ShowMovies()
 {
-
     Console.Clear();
 
     foreach (Movie movie in movieService.GetAll())
@@ -67,6 +66,7 @@ void ShowMovies()
     }
 
 
+    Console.WriteLine();
     Console.WriteLine($"B. Back");
 
     Console.WriteLine("Select a movie by pressing that number in front of the movie. Or press 'B' (or 'b') to go back.");
